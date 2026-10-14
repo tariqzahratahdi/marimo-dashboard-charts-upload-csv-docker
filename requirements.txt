@@ -1,0 +1,4 @@
+marimo
+plotly
+pandas
+io
